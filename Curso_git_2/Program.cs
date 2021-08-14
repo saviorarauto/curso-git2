@@ -6,7 +6,7 @@ namespace Curso_git_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Estou começando a aprender GitHub");
         }
     }
 }
